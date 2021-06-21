@@ -1,0 +1,20 @@
+{
+  "name": "nsi-accidents-velos",
+  "version": "1.0.0",
+  "description": "TD sur la construction d'un jeu de données sur les accidents de vélos et sur leur visualisation sur une carte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cartographie",
+    "open-data",
+    "python",
+    "jupyter",
+    "folium",
+    "velo",
+    "accident"
+  ],
+  "author": "Jérôme Mare <jerome.mare@gmail.com>",
+  "license": "ISC"
+}
